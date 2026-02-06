@@ -1,0 +1,4 @@
+quote = "There are times you can't really see or even feel how sweet life can be. Hopefully its mountains will be higher than its valleys are deep. I know things that are broken can be fixed. Take the punch if you have to, hit the canvas and then get up again. Life is worth it."
+famous_person = "Queen Latifah"
+
+print(f'{famous_person} once said, "{quote}"')
