@@ -40,3 +40,5 @@ del guests[0]
 print(guests)
 del guests[0]
 print(guests)
+
+print(f"How many people are coming to dinner? {len(guests)}")
